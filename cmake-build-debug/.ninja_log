@@ -1,0 +1,17 @@
+# ninja log v5
+0	538	1672307618200684823	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+539	587	1672307618253615386	my_tiny_standard_lib	6e954b377c44f004
+3	497	1672315538430274266	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+498	550	1672315538485227302	my_tiny_standard_lib	6e954b377c44f004
+3	238	1672315558506656121	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+238	270	1672315558539836015	my_tiny_standard_lib	6e954b377c44f004
+3	493	1672315632168610455	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+493	543	1672315632221782753	my_tiny_standard_lib	6e954b377c44f004
+3	463	1672315741435550096	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+463	515	1672315741489461173	my_tiny_standard_lib	6e954b377c44f004
+3	245	1672315802453014799	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+245	281	1672315802490568990	my_tiny_standard_lib	6e954b377c44f004
+3	242	1672315848551794854	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+242	277	1672315848588626350	my_tiny_standard_lib	6e954b377c44f004
+3	480	1672315874326852547	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+480	527	1672315874375893499	my_tiny_standard_lib	6e954b377c44f004
