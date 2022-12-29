@@ -7,6 +7,7 @@
 #ifndef MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
 #define MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
 
+
 template<typename T>
 class MyTinyVector {
 private:
@@ -81,5 +82,6 @@ public:
         delete[] a;
     }
 };
+
 
 #endif //MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
