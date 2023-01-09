@@ -1,3 +1,5 @@
 # ninja log v5
 3	480	1672315874326852547	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
 480	527	1672315874375893499	my_tiny_standard_lib	6e954b377c44f004
+4	250	1673251949254262973	CMakeFiles/my_tiny_standard_lib.dir/main.cpp.o	4bece34ce0cb6f63
+250	291	1673251949297737907	my_tiny_standard_lib	6e954b377c44f004
