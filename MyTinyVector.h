@@ -7,14 +7,15 @@
 #ifndef MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
 #define MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
 
-
-template<typename T>
+template <typename T>
 class MyTinyVector {
 private:
     int vector_capacity{}, vector_size{};
     T *a;
+
 public:
-    MyTinyVector() : vector_capacity(0), vector_size(0), a(nullptr) {}
+    MyTinyVector() : vector_capacity(0), vector_size(0), a(nullptr) {
+    }
 
     MyTinyVector(const MyTinyVector &temp) : vector_capacity(temp.vector_capacity), vector_size(temp.vector_size) {
         a = new T[vector_capacity];
@@ -83,5 +84,4 @@ public:
     }
 };
 
-
-#endif //MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
+#endif  // MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
