@@ -7,7 +7,7 @@
 #ifndef MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
 #define MY_TINY_STANDARD_LIB_MYTINYVECTOR_H
 
-template <typename T>
+template<typename T>
 class MyTinyVector {
 private:
     int vector_capacity{}, vector_size{};
